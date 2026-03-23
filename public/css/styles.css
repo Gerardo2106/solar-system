@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    text-align: center;
+    color: rgb(18, 53, 83);
+    background-color: rgb(212, 211, 211);
+    width: 100%;
+    margin: 0;
+    font-style: italic;
+    margin-top: auto;
+}
+
+.logo {
+    object-fit: contain;
+    width: 150px;
+    height: auto;
+}
+
+.homeImg{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
