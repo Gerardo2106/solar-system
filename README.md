@@ -1,48 +1,42 @@
-**Solar System Web App**
+# Solar System Web App
 
-**Description**
+## Description
 
 A full-stack web application that delivers dynamic content about the solar system using server-side rendering.
 
-**Key Contributions**
+## Key Contributions
 
 * Built a Node.js and Express server to handle routing and HTTP requests
 * Implemented dynamic page rendering using EJS templates
 * Structured application using MVC-like organization for maintainability
 * Developed responsive UI styling with CSS
 
-**Tech Stack**
+## Tech Stack
 
-Node.js, 
+Node.js, Express.js, EJS, CSS
 
-Express.js, 
+## Installation
 
-EJS, 
-
-CSS
-
-**Installation**
-
+```bash
 git clone https://github.com/Gerardo2106/solar-system.git
-
 cd solar-system
-
 npm install
+```
 
-**Usage**
+## Usage
 
+```bash
 node index.mjs
+```
 
 Visit: http://localhost:3000
 
-**Project Structure**
+## Project Structure
 
-views/ – EJS templates
+* views/ – EJS templates
+* public/ – Static assets
+* index.mjs – Entry point
 
-public/ – Static assets
-
-index.mjs – Entry point
-
-**Author**
+## Author
 
 Gerardo
