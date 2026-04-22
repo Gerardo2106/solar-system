@@ -1,6 +1,6 @@
-****Solar System Web App**
+**Solar System Web App**
 
-****Description**
+**Description**
 
 A full-stack web application that delivers dynamic content about the solar system using server-side rendering.
 
@@ -11,7 +11,7 @@ A full-stack web application that delivers dynamic content about the solar syste
 * Structured application using MVC-like organization for maintainability
 * Developed responsive UI styling with CSS
 
-****Tech Stack**
+**Tech Stack**
 
 Node.js, 
 Express.js, 
