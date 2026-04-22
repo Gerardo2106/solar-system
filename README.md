@@ -19,8 +19,11 @@ EJS,
 CSS
 
 **Installation**
+
 git clone https://github.com/Gerardo2106/solar-system.git
+
 cd solar-system
+
 npm install
 
 **Usage**
