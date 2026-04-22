@@ -14,8 +14,11 @@ A full-stack web application that delivers dynamic content about the solar syste
 **Tech Stack**
 
 Node.js, 
+
 Express.js, 
+
 EJS, 
+
 CSS
 
 **Installation**
