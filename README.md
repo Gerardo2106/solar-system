@@ -35,7 +35,9 @@ Visit: http://localhost:3000
 **Project Structure**
 
 views/ – EJS templates
+
 public/ – Static assets
+
 index.mjs – Entry point
 
 **Author**
